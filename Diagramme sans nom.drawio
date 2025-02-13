@@ -133,7 +133,7 @@
             <mxPoint x="-46" y="-80" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RsO8aFewrcQ2abt0Akd3-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Encolleuse automatisé&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="RsO8aFewrcQ2abt0Akd3-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Encolleuse automatisée&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="205" y="83" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ZQVcoE4Sk8YREgEVMJvQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.792;entryY=0.081;entryDx=0;entryDy=0;curved=1;endArrow=none;startFill=0;entryPerimeter=0;" edge="1" parent="1" source="ZQVcoE4Sk8YREgEVMJvQ-46" target="RsO8aFewrcQ2abt0Akd3-1">
